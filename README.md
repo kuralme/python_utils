@@ -13,4 +13,4 @@ roi_tracker | Track selected object on video using OpenCV
 obj_remove | Remove selected object (with gui) from an image.
 pascal_voc_extract | Extract bounding boxes and frames to XML file
 pascal2yolo | Convert PASCAL VOC type annoted dataset to YOLO format
-custom_cvbridge | A custom version of cv-bridge to conversion between ROS and OpenCV images
+custom_cvbridge | A custom version of cv-bridge for conversion between ROS and OpenCV images
